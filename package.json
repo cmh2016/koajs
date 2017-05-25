@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cmh2016/koajs/issues"
   },
-  "homepage": "https://github.com/cmh2016/koajs#readme"
+  "homepage": "https://github.com/cmh2016/koajs#readme",
+  "devDependencies": {
+    "koa": "^2.2.0"
+  }
 }
