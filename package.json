@@ -18,5 +18,6 @@
   "homepage": "https://github.com/cmh2016/koajs#readme",
   "devDependencies": {
     "koa": "^2.2.0"
-  }
+  },
+  "s":"s"
 }
